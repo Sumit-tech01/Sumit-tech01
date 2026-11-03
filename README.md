@@ -1,258 +1,94 @@
+<!--
+  SUMIT JAGTAP — GitHub profile README
+  Repo: github.com/Sumit-tech01/Sumit-tech01
+  Palette: ink #0A0D0A · lime #D6FF64 · olive #425B0D · teal #99D1CE
+  All dynamic cards are live services. Update "Sumit-tech01" if the handle changes.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,35:312E81,70:6D28D9,100:06B6D4&text=SUMIT%20JAGTAP&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20%26%20FULL-STACK%20DEVELOPER%20%7C%20BUILDER%20%7C%20CREATOR&descAlignY=58&descSize=14&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0D0A&height=230&section=header&text=SUMIT%20JAGTAP&fontSize=68&fontColor=D6FF64&fontAlignY=36&desc=AI%20engineer%20%C2%B7%20builder%20%C2%B7%20founder&descAlignY=59&descSize=16" width="100%" alt="Sumit Jagtap — AI engineer, builder, founder" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=650&color=D6FF64&background=0A0D0A&center=true&vCenter=true&width=854&height=58&lines=Applied+AI+%C2%B7+Retrieval+%C2%B7+Full-stack;Founder+%40+Clariyo;Building+AI+that+solves+real+problems;Open+to+AI+engineering+internships" width="100%" alt="Applied AI, retrieval, full-stack; founder at Clariyo; open to AI engineering internships" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+products;Exploring+AI%2C+ML+%26+Generative+AI;Crafting+modern+full-stack+experiences;Learning.+Building.+Breaking.+Improving." />
-</a>
+<br /><br />
 
-<br/>
+<a href="https://sumitjagtap.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VIEW-425B0D?style=for-the-badge&labelColor=0A0D0A&logo=vercel&logoColor=D6FF64" alt="Portfolio" /></a> <a href="https://www.linkedin.com/in/sumitjagtappatil/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0A0D0A&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/jagtapsumiit"><img src="https://img.shields.io/badge/X-FOLLOW-1D9BF0?style=for-the-badge&labelColor=0A0D0A&logo=x&logoColor=white" alt="X" /></a> <a href="mailto:sumitpatil.tech@gmail.com"><img src="https://img.shields.io/badge/EMAIL-WRITE-EA4335?style=for-the-badge&labelColor=0A0D0A&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://sumitjagtap.vercel.app/assets/Sumit_Jagtap_AI_Companies_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-OPEN-425B0D?style=for-the-badge&labelColor=0A0D0A&logo=adobeacrobatreader&logoColor=D6FF64" alt="Résumé" /></a>
 
-<a href="https://github.com/Sumit-tech01">
-<img src="https://img.shields.io/github/followers/Sumit-tech01?label=Followers&style=for-the-badge&logo=github&color=181717"/>
-</a>
-<a href="https://github.com/Sumit-tech01?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/sumitjagtappatil/">
-<img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<br /><br />
+
+<sub>PUNE, INDIA · 18.52°N / 73.86°E</sub>
 
 </div>
 
 ---
 
-## 👨‍💻 WHO AM I?
+## `> whoami`
 
-```yaml
-name: Sumit Suresh Jagtap Patil
-username: Sumit-tech01
-role: AI & Full-Stack Developer
-education: B.Tech - Computer Science & Engineering (Data Science)
-location: Pune, India
+I'm **Sumit Jagtap** — an AI engineer and builder from Pune, India, working where applied models, retrieval, and full-stack product engineering meet.
 
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Generative AI
-  - Full Stack Development
-  - Software Engineering
-  - Building Products
+I'm studying **CSE (Data Science) at ADYPU × NxtWave** and building **Clariyo**, a pre-launch student ecosystem for mentorship, hackathons, careers, and founder community.
 
-mindset: "Think deeply. Build boldly. Keep learning."
-```
+I care about what happens after the demo: the failure states, the interface, and the person on the other side. Most of my work starts with a question and ends with a working surface.
 
-I'm a developer passionate about building technology that solves real-world problems.
+> **Useful beats impressive. Then make it both.**
 
-I enjoy working across the entire development lifecycle — from designing interfaces and developing APIs to integrating AI models and deploying applications.
-
-My goal is simple: **Turn ambitious ideas into real products.**
-
-## ⚡ CURRENT FOCUS
-
-- 🧠 Exploring Artificial Intelligence & Generative AI.
-- 🤖 Experimenting with LLMs, AI agents and automation.
-- 🌐 Building modern full-stack applications.
-- 🚀 Developing products and startup ideas.
-- 📚 Improving software engineering fundamentals.
-- 🤝 Collaborating with developers and creators.
+<sub>BUILDING <strong>Clariyo</strong> · STUDYING <strong>CSE (Data Science)</strong> · OPEN TO <strong>AI engineering internships</strong> and select collaborations</sub>
 
 ---
 
-## 🧬 TECH ARSENAL
+## `> selected_work`
 
-### Languages
+| Build | The edge |
+| :--- | :--- |
+| **01 — [Clariyo](https://clariyo.vercel.app/)**<br /><sub>FOUNDER · REACT · VITE · FORMSPREE</sub> | A student ecosystem shipped as a live information site and waitlist while the platform is being built in the open.<br /><sub>PRE-LAUNCH · <a href="https://clariyo.vercel.app/">Live site</a></sub> |
+| **02 — [FlipSearch](https://sumittech-flipsearch.hf.space/)**<br /><sub>SBERT · BM25 · RAG · FASTAPI</sub> | Semantic product search over 205K+ reviews that handles the way people actually describe products, not just catalog keywords.<br /><sub>LIVE · <a href="https://sumittech-flipsearch.hf.space/">App</a> · <a href="https://sumittech-flipsearch.hf.space/docs">API docs</a></sub> |
+| **03 — [ML Reliability Platform](https://airewrite-kappa.vercel.app/)**<br /><sub>FLASK · POSTGRES · REDIS · RQ</sub> | A text-intelligence backend designed for provider failures: bounded retries, circuit breakers, deterministic fallbacks, and request-level telemetry.<br /><sub>LIVE · <a href="https://airewrite-kappa.vercel.app/">App</a> · <a href="https://github.com/Sumit-tech01/AI-Rewrite-Workspace-">Source</a></sub> |
+| **04 — [Smart Healthcare GPT](https://chatgpt.com/g/g-6974b3e0f7308191b12af98227bac769-smart-healthcare-gpt)**<br /><sub>CUSTOM GPT · HEALTHCARE AI · PROMPT SYSTEMS</sub> | A custom GPT that explains medical reports in plain language and stops at the non-diagnostic boundary instead of playing doctor.<br /><sub>PROTOTYPE · <a href="https://chatgpt.com/g/g-6974b3e0f7308191b12af98227bac769-smart-healthcare-gpt">Open GPT</a></sub> |
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css" />
+<sub>Full index, evidence labels, and deep dives → **[sumitjagtap.vercel.app/projects](https://sumitjagtap.vercel.app/projects)**</sub>
+
+---
+
+## `> stack`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,tailwind,nodejs,flask,fastapi,postgres,mongodb,redis,docker,git&theme=dark&perline=13" alt="Python, TypeScript, React, Next.js, Tailwind CSS, Node.js, Flask, FastAPI, PostgreSQL, MongoDB, Redis, Docker, Git" />
 </p>
 
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase,redis" />
-</p>
-
-### Tools & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode" />
-</p>
-
-### AI & Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/Generative%20AI-312E81?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-164E63?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Agents-4C1D95?style=for-the-badge&logo=probot&logoColor=white"/>
+<p align="center">
+  <code>RAG</code> <code>SBERT</code> <code>BM25</code> <code>LLM APIs</code> <code>prompt systems</code> <code>NLP</code>
 </p>
 
 ---
 
-## 🚀 FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔮 Clariyo
-
-A student ecosystem platform connecting learners with mentorship, skills, opportunities, hackathons and founders.
-
-**Focus:** Product Development · Full Stack · Community
-
-</td>
-<td width="50%" valign="top">
-
-### ❤️ CareBridge
-
-A connected-care concept with location tracking, SOS alerts, geofencing and wearable technology.
-
-**Focus:** IoT · Real-time Systems · AI
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤝 MeetExpert
-
-A mentor–learner platform with mentor discovery, bookings, sessions, chat, reviews and payouts.
-
-**Focus:** Next.js · Supabase · Full Stack
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ SkillSync
-
-A student skill-exchange platform designed to help people share knowledge and learn together.
-
-**Focus:** Community · Learning · Web Development
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 Smart Healthcare GPT
-
-An AI-assisted concept for making healthcare information easier to understand.
-
-**Focus:** LLMs · Generative AI · NLP
-
-</td>
-<td width="50%" valign="top">
-
-### 🏛️ Legacy Alchemist GPT
-
-An AI concept focused on understanding and modernizing legacy COBOL systems.
-
-**Focus:** AI · Code Intelligence · Modernization
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Procurement Sentinel GPT
-
-An AI-assisted concept for procurement audits, reviews and risk identification.
-
-**Focus:** AI Agents · Automation · Analysis
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Voice Sentiment Analysis
-
-A project exploring sentiment analysis from voice data.
-
-**Focus:** Python · NLP · Machine Learning
-
-</td>
-</tr>
-</table>
+## `> signal`
 
 <div align="center">
 
-<a href="https://github.com/Sumit-tech01?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-Explore%20Repositories-7C3AED?style=for-the-badge&logo=github"/>
-</a>
+<a href="https://github.com/Sumit-tech01?tab=followers"><img src="https://img.shields.io/github/followers/Sumit-tech01?style=for-the-badge&logo=github&label=FOLLOWERS&color=425B0D&labelColor=0A0D0A" alt="GitHub followers" /></a> <a href="https://github.com/Sumit-tech01?tab=stars"><img src="https://img.shields.io/github/stars/Sumit-tech01?affiliations=OWNER&style=for-the-badge&logo=github&label=STARS&color=425B0D&labelColor=0A0D0A" alt="GitHub stars" /></a> <a href="https://github.com/Sumit-tech01"><img src="https://komarev.com/ghpvc/?username=Sumit-tech01&style=for-the-badge&color=425B0D&label=PROFILE+VIEWS" alt="Profile views" /></a>
 
+</div>
+
+<br />
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumit-tech01&theme=gotham" alt="Top languages by repository" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumit-tech01&theme=gotham&utcOffset=5.5" alt="Commit activity by hour of day" />
 </div>
 
 ---
 
-## 📊 GITHUB COMMAND CENTER
+## `> contact`
+
+I'm open to **AI engineering internships**, **technical collaborations**, and teams that care about taking models from research notebooks to reliable, human-usable products.
+
+<p align="center">
+  <a href="mailto:sumitpatil.tech@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sumitjagtappatil/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://sumitjagtap.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://sumitjagtap.vercel.app/assets/Sumit_Jagtap_AI_Companies_Resume.pdf">Résumé</a>
+</p>
 
 <div align="center">
-
-<a href="https://github.com/Sumit-tech01">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sumit-tech01&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9"/>
-</a>
-
-<a href="https://github.com/Sumit-tech01">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-tech01&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9"/>
-</a>
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Sumit-tech01&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION TRAIL
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sumit-tech01/Sumit-tech01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
-
----
-
-## 🌐 CONNECT WITH ME
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sumitjagtappatil/">
-<img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sumit-tech01">
-<img src="https://img.shields.io/badge/GitHub-FOLLOW%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://sumitjagtap.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-EXPLORE%20MY%20WORK-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `while (alive) { learn(); build(); ship(); }`
-
-**Thanks for visiting my GitHub profile!**
-
-*Think. Create. Innovate. Repeat.* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:06B6D4,50:6D28D9,100:09090B" width="100%"/>
-
+  <sub>BUILDING USEFUL THINGS · PUNE, INDIA</sub>
 </div>
