@@ -1,128 +1,258 @@
+
 <div align="center">
 
-<!-- Replace these two image paths after creating your banner assets. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-banner-light.svg">
-  <img alt="Sumit Jagtap — GitHub profile banner" src="assets/profile-banner-light.svg" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,35:312E81,70:6D28D9,100:06B6D4&text=SUMIT%20JAGTAP&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20%26%20FULL-STACK%20DEVELOPER%20%7C%20BUILDER%20%7C%20CREATOR&descAlignY=58&descSize=14&animation=fadeIn" width="100%" />
 
-# Hi, I'm Sumit Jagtap 👋
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+products;Exploring+AI%2C+ML+%26+Generative+AI;Crafting+modern+full-stack+experiences;Learning.+Building.+Breaking.+Improving." />
+</a>
 
-### AI & Full-Stack Developer · Builder · Lifelong Learner
+<br/>
 
-I enjoy turning ideas into useful products with software, AI, and thoughtful user experiences.
-Currently learning, building, and shipping projects across AI/ML, web development, and developer tools.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=vercel&logoColor=white)](https://sumitjagtap.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitjagtappatil/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-0A101F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sumit-tech01)
+<a href="https://github.com/Sumit-tech01">
+<img src="https://img.shields.io/github/followers/Sumit-tech01?label=Followers&style=for-the-badge&logo=github&color=181717"/>
+</a>
+<a href="https://github.com/Sumit-tech01?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/sumitjagtappatil/">
+<img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 WHO AM I?
 
-- 🎓 B.Tech student in **Computer Science & Engineering (Data Science)**.
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**.
-- 🌐 Building full-stack applications and AI-powered tools.
-- 🚀 Interested in taking projects from an idea to a deployed product.
-- 📍 Based in **Pune, India**.
-- 🌱 Always learning, experimenting, and improving.
+```yaml
+name: Sumit Suresh Jagtap Patil
+username: Sumit-tech01
+role: AI & Full-Stack Developer
+education: B.Tech - Computer Science & Engineering (Data Science)
+location: Pune, India
 
-## 🧰 Tech Stack
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Generative AI
+  - Full Stack Development
+  - Software Engineering
+  - Building Products
+
+mindset: "Think deeply. Build boldly. Keep learning."
+```
+
+I'm a developer passionate about building technology that solves real-world problems.
+
+I enjoy working across the entire development lifecycle — from designing interfaces and developing APIs to integrating AI models and deploying applications.
+
+My goal is simple: **Turn ambitious ideas into real products.**
+
+## ⚡ CURRENT FOCUS
+
+- 🧠 Exploring Artificial Intelligence & Generative AI.
+- 🤖 Experimenting with LLMs, AI agents and automation.
+- 🌐 Building modern full-stack applications.
+- 🚀 Developing products and startup ideas.
+- 📚 Improving software engineering fundamentals.
+- 🤝 Collaborating with developers and creators.
+
+---
+
+## 🧬 TECH ARSENAL
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css" />
+</p>
 
-### Backend, Database & Infrastructure
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+### Frontend Development
 
-### AI & Data
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A43?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative_AI-6E40C9?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-0A9396?style=flat-square)
-![Python Data Tools](https://img.shields.io/badge/Data_Tools-3776AB?style=flat-square&logo=python&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma" />
+</p>
 
----
+### Backend & Database
 
-## 🚀 Selected Projects
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase,firebase,redis" />
+</p>
 
-| Project | What it does |
-|---|---|
-| **Clariyo** | A student ecosystem platform focused on mentorship, opportunities, skills, and founders. |
-| **CareBridge** | A child and elder care concept with location tracking, safety alerts, and connected-care features. |
-| **MeetExpert** | A mentor–learner platform concept with discovery, bookings, sessions, chat, and reviews. |
-| **SkillSync** | A platform concept for students to exchange skills and learn from one another. |
-| **Smart Healthcare GPT** | An AI-assisted concept for making medical information easier to understand. |
-| **Legacy Alchemist GPT** | An AI concept focused on helping modernize legacy COBOL systems. |
-| **Procurement Sentinel GPT** | An AI-assisted procurement audit and review concept. |
-| **Voice Sentiment Analysis** | A project exploring sentiment analysis from voice input. |
+### Tools & Infrastructure
 
-Explore more on [my GitHub repositories](https://github.com/Sumit-tech01?tab=repositories).
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,linux,vscode" />
+</p>
 
-## 📊 GitHub Analytics
+### AI & Machine Learning
 
-<!--
-For reliable stats, deploy your own github-readme-stats instance on Vercel.
-Replace YOUR_STATS_INSTANCE with your deployed Vercel hostname, without https://.
-Do not put a personal access token in this README.
--->
-<div align="center">
-  <a href="https://github.com/Sumit-tech01">
-    <img height="165" src="https://YOUR_STATS_INSTANCE/api?username=Sumit-tech01&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=transparent&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&hide_border=true" alt="Sumit's GitHub statistics">
-  </a>
-  <a href="https://github.com/Sumit-tech01">
-    <img height="165" src="https://YOUR_STATS_INSTANCE/api/top-langs/?username=Sumit-tech01&layout=compact&langs_count=8&theme=transparent&title_color=A78BFA&text_color=C9D1D9&hide_border=true" alt="Most used languages">
-  </a>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Sumit-tech01&theme=transparent&hide_border=true&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak">
-</div>
-
-## 🐍 Contribution Activity
-
-<!-- Add these image files after the contribution-snake workflow has run successfully. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumit-tech01/Sumit-tech01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumit-tech01/Sumit-tech01/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Sumit-tech01/Sumit-tech01/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sumitjagtappatil/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-  <a href="https://github.com/Sumit-tech01"><img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;&nbsp;
-  <a href="https://sumitjagtap.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A101F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-</div>
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+<img src="https://img.shields.io/badge/Generative%20AI-312E81?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-164E63?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-4C1D95?style=for-the-badge&logo=probot&logoColor=white"/>
+</p>
 
 ---
 
+## 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔮 Clariyo
+
+A student ecosystem platform connecting learners with mentorship, skills, opportunities, hackathons and founders.
+
+**Focus:** Product Development · Full Stack · Community
+
+</td>
+<td width="50%" valign="top">
+
+### ❤️ CareBridge
+
+A connected-care concept with location tracking, SOS alerts, geofencing and wearable technology.
+
+**Focus:** IoT · Real-time Systems · AI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 MeetExpert
+
+A mentor–learner platform with mentor discovery, bookings, sessions, chat, reviews and payouts.
+
+**Focus:** Next.js · Supabase · Full Stack
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ SkillSync
+
+A student skill-exchange platform designed to help people share knowledge and learn together.
+
+**Focus:** Community · Learning · Web Development
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Smart Healthcare GPT
+
+An AI-assisted concept for making healthcare information easier to understand.
+
+**Focus:** LLMs · Generative AI · NLP
+
+</td>
+<td width="50%" valign="top">
+
+### 🏛️ Legacy Alchemist GPT
+
+An AI concept focused on understanding and modernizing legacy COBOL systems.
+
+**Focus:** AI · Code Intelligence · Modernization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Procurement Sentinel GPT
+
+An AI-assisted concept for procurement audits, reviews and risk identification.
+
+**Focus:** AI Agents · Automation · Analysis
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Voice Sentiment Analysis
+
+A project exploring sentiment analysis from voice data.
+
+**Focus:** Python · NLP · Machine Learning
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-**“Build with curiosity. Learn by doing. Ship what matters.”**
+<a href="https://github.com/Sumit-tech01?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-Explore%20Repositories-7C3AED?style=for-the-badge&logo=github"/>
+</a>
 
-⭐ If you find something interesting in my work, feel free to explore the repositories and connect!
+</div>
+
+---
+
+## 📊 GITHUB COMMAND CENTER
+
+<div align="center">
+
+<a href="https://github.com/Sumit-tech01">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sumit-tech01&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&icon_color=A78BFA&text_color=C9D1D9"/>
+</a>
+
+<a href="https://github.com/Sumit-tech01">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-tech01&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9"/>
+</a>
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Sumit-tech01&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION TRAIL
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sumit-tech01/Sumit-tech01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sumitjagtappatil/">
+<img src="https://img.shields.io/badge/LinkedIn-LET'S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sumit-tech01">
+<img src="https://img.shields.io/badge/GitHub-FOLLOW%20MY%20WORK-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://sumitjagtap.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-EXPLORE%20MY%20WORK-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `while (alive) { learn(); build(); ship(); }`
+
+**Thanks for visiting my GitHub profile!**
+
+*Think. Create. Innovate. Repeat.* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:06B6D4,50:6D28D9,100:09090B" width="100%"/>
 
 </div>
